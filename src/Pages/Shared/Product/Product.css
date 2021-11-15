@@ -1,0 +1,15 @@
+.product-image {
+  height: 250px;
+}
+.body{
+  background-color: rgb(200, 209, 223);
+}
+.overFlow{
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+.purchase{
+  background-color: rgb(148, 148, 148);
+}
